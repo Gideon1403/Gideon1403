@@ -1,5 +1,5 @@
 
-#mebuat va#rbel nama barang
+#mebuat varbel nama barang
 #mebuat varbel harga barang
 #mebuat varbel persen barang
 #input nama barang
